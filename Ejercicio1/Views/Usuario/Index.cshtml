@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+
+@using (Html.BeginForm("Buscar", "Usuario"))
+{<h2>Buscador de usuarios</h2>
+<input type="text" name="nombre"/>
+<button type="submit">Buscar</button>     
+}
+

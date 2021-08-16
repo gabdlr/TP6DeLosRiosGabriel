@@ -1,0 +1,2 @@
+Borre el packages para que fuera mas liviano pero si no se genera cuando cargues la
+solucion me parece que no va a andar nada. Saludos.
